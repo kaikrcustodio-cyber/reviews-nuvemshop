@@ -1,0 +1,22 @@
+{
+  "productId": "347955012",
+  "avg": 5,
+  "count": 2,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Carmen V.",
+      "rating": 5,
+      "text": "Essa bota é simplesmente sensacional, linda demais e súper confortável!",
+      "date": "2026-06-10",
+      "verified": true
+    },
+    {
+      "author": "Yasmin Z.",
+      "rating": 5,
+      "text": "Lindíssima e muito confortável",
+      "date": "2026-07-06",
+      "verified": true
+    }
+  ]
+}

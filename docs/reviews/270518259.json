@@ -1,0 +1,22 @@
+{
+  "productId": "270518259",
+  "avg": 5,
+  "count": 2,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Sandália B.",
+      "rating": 5,
+      "text": "Fica ainda mais linda no pé",
+      "date": "2026-02-25",
+      "verified": true
+    },
+    {
+      "author": "Cíntia B.",
+      "rating": 5,
+      "text": "Comprei para usar em um evento, não gosto de usar salto alto e essa apenas de ser baixinha fica super linda com vestido. Amei",
+      "date": "2026-02-27",
+      "verified": true
+    }
+  ]
+}

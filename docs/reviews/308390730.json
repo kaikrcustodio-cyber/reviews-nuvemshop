@@ -1,0 +1,22 @@
+{
+  "productId": "308390730",
+  "avg": 5,
+  "count": 2,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Vânia C.",
+      "rating": 5,
+      "text": "Sandália linda e de ótima qualidade, adorei",
+      "date": "2026-03-24",
+      "verified": true
+    },
+    {
+      "author": "Marta F.",
+      "rating": 5,
+      "text": "Adoro os sapatos desta marca, são excelentes.",
+      "date": "2026-04-07",
+      "verified": true
+    }
+  ]
+}

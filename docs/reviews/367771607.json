@@ -1,0 +1,22 @@
+{
+  "productId": "367771607",
+  "avg": 5,
+  "count": 2,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Márcia M.",
+      "rating": 5,
+      "text": "Adorei, coro pelica muito gostoso de usar!",
+      "date": "2026-10-14",
+      "verified": true
+    },
+    {
+      "author": "Luciana R.",
+      "rating": 5,
+      "text": "Ficou maravilhosa! Confortável e elegante!",
+      "date": "2026-10-16",
+      "verified": true
+    }
+  ]
+}

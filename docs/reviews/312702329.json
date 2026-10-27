@@ -1,0 +1,22 @@
+{
+  "productId": "312702329",
+  "avg": 5,
+  "count": 2,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Vania C.",
+      "rating": 5,
+      "text": "Eu tenho uma e amo! Virou minha sandália favorita, uso o tempo todo! Já quero de outra cor",
+      "date": "2026-02-21",
+      "verified": true
+    },
+    {
+      "author": "Clelia F.",
+      "rating": 5,
+      "text": "Uma pena, não recebi o produto até agora. O correio não entregou. Ainda estou no aguardo de uma resposta da loja.",
+      "date": "2026-08-21",
+      "verified": true
+    }
+  ]
+}

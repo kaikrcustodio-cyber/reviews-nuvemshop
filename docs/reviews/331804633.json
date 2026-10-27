@@ -1,0 +1,29 @@
+{
+  "productId": "331804633",
+  "avg": 5,
+  "count": 3,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Patricia V.",
+      "rating": 5,
+      "text": "Adorei a maciez e o design",
+      "date": "2026-06-06",
+      "verified": true
+    },
+    {
+      "author": "Denise R.",
+      "rating": 5,
+      "text": "Bota maravilha, muito macia e a numeração de tamanho perfeito.",
+      "date": "2026-06-08",
+      "verified": true
+    },
+    {
+      "author": "Leticia P.",
+      "rating": 5,
+      "text": "Super confortável, macia, me surpreendeu",
+      "date": "2026-07-15",
+      "verified": true
+    }
+  ]
+}

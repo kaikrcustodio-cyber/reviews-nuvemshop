@@ -1,0 +1,22 @@
+{
+  "productId": "322815963",
+  "avg": 5,
+  "count": 2,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Renata A.",
+      "rating": 5,
+      "text": "Pela primeira vez fiz compra de um sapato pela internet!!\nADOREI! Sapato lindo e confortável !!\nSuper indico a Regina Rios para sapatos originais e com ótimo preço!!",
+      "date": "2026-02-20",
+      "verified": true
+    },
+    {
+      "author": "Vera L.",
+      "rating": 5,
+      "text": "Sandália muito confortável. Fiquei super contente pois fiz uma excelente compra. Estão de parabéns",
+      "date": "2026-03-15",
+      "verified": true
+    }
+  ]
+}

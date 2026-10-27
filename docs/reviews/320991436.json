@@ -1,0 +1,29 @@
+{
+  "productId": "320991436",
+  "avg": 5,
+  "count": 3,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Estela A.",
+      "rating": 5,
+      "text": "Gostei do modelo e da qualidade.",
+      "date": "2026-02-25",
+      "verified": true
+    },
+    {
+      "author": "Débora L.",
+      "rating": 5,
+      "text": "Combina com tudo e fica dica linda no pé",
+      "date": "2026-02-27",
+      "verified": true
+    },
+    {
+      "author": "Marta F.",
+      "rating": 5,
+      "text": "A sandália é linda e muito confortável. O pé direito não fechou. Vou ter que mandar fazer um furo na alça da sandália.",
+      "date": "2026-07-28",
+      "verified": true
+    }
+  ]
+}

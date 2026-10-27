@@ -1,0 +1,57 @@
+{
+  "productId": "345925791",
+  "avg": 4.4,
+  "count": 7,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Larissa B.",
+      "rating": 1,
+      "text": "Fiquei muito surpresa com o que aconteceu... vocês me enviaram um produto com defeito... um dos pares é completamente torto...",
+      "date": "2026-06-16",
+      "verified": true
+    },
+    {
+      "author": "Mariana C.",
+      "rating": 5,
+      "text": "Amei a bota! Ela é linda, confortável e fica super elegante no pé. Usei o dia todo e não machucou. Com certeza compraria novamente.",
+      "date": "2026-06-17",
+      "verified": true
+    },
+    {
+      "author": "Paula R.",
+      "rating": 5,
+      "text": "Estou amando a minha bota. Estava louca atrás de uma bota baixinha que ficasse elegante dessa forma.",
+      "date": "2026-07-23",
+      "verified": true
+    },
+    {
+      "author": "Cassia P.",
+      "rating": 5,
+      "text": "Linda e confortável..\nAgradeco\nMuito.",
+      "date": "2026-07-24",
+      "verified": true
+    },
+    {
+      "author": "Fernanda S.",
+      "rating": 5,
+      "text": "maravilhoso!",
+      "date": "2026-07-27",
+      "verified": true
+    },
+    {
+      "author": "Veronica C.",
+      "rating": 5,
+      "text": "Estou com dificuldades na troca de uma mercadoria. Realizei uma compra e pedi para trocar por outro produto.\nRecebi o email para troca, contudo o link não abre num local do site de troca o de eu consiga realizar a troca. O site indicado não funciona e o SAC da loja não entrou em contato comigo.",
+      "date": "2026-08-05",
+      "verified": true
+    },
+    {
+      "author": "Elane N.",
+      "rating": 5,
+      "text": "A bota é linda, sofisticada e confortável.",
+      "date": "2026-09-03",
+      "verified": true
+    }
+  ]
+}

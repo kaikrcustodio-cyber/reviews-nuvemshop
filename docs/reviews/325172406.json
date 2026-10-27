@@ -1,0 +1,36 @@
+{
+  "productId": "325172406",
+  "avg": 4.8,
+  "count": 4,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Tania M.",
+      "rating": 5,
+      "text": "Acabei de comprar essa sandália e meu deus que absurda de linda!!! comprei pra usar no aniversario do meu filho e achei divina com certeza comprarei mais vezes",
+      "date": "2026-02-24",
+      "verified": true
+    },
+    {
+      "author": "Sara S.",
+      "rating": 4,
+      "text": "Estilosa e confortável. Recomendo!",
+      "date": "2026-02-25",
+      "verified": true
+    },
+    {
+      "author": "Isabel V.",
+      "rating": 5,
+      "text": "Amei esse salto, eu consigo usar o dia todo. E a cor ficou ótima para o verão.",
+      "date": "2026-02-27",
+      "verified": true
+    },
+    {
+      "author": "Soraya A.",
+      "rating": 5,
+      "text": "Muito lindo! Salto Confortável, design moderno. Adorei",
+      "date": "2026-06-16",
+      "verified": true
+    }
+  ]
+}

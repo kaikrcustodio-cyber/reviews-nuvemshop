@@ -1,0 +1,71 @@
+{
+  "productId": "270554231",
+  "avg": 5,
+  "count": 9,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Juliana F.",
+      "rating": 5,
+      "text": "Eu tenho 2 e amo",
+      "date": "2026-02-24",
+      "verified": true
+    },
+    {
+      "author": "Marcela M.",
+      "rating": 5,
+      "text": "Linda, brilhosa na medida e muito confortável. Já usei muito!",
+      "date": "2026-02-27",
+      "verified": true
+    },
+    {
+      "author": "Letícia P.",
+      "rating": 5,
+      "text": "Estava buscando uma rasteira que fosse estilosa mas prática, e essa superou as expectativas.",
+      "date": "2026-03-03",
+      "verified": true
+    },
+    {
+      "author": "Alessandra M.",
+      "rating": 5,
+      "text": "A sandália é linda, confortável... maravilhosa!\nO único ponto a acrescentar: poderia ter mais uns dois furinhos para regular o fecho. Mesmo no último furo ainda fica um pouco folgada no pé.",
+      "date": "2026-03-13",
+      "verified": true
+    },
+    {
+      "author": "Daniella A.",
+      "rating": 5,
+      "text": "Perfeita. Ela é leve, não machuca o pé, estou usando muito.",
+      "date": "2026-03-25",
+      "verified": true
+    },
+    {
+      "author": "Aline C.",
+      "rating": 5,
+      "text": "Muito confortável.",
+      "date": "2026-03-25",
+      "verified": true
+    },
+    {
+      "author": "Natalia J.",
+      "rating": 5,
+      "text": "Minha nova companheira para o calor. Confortável e bonita.",
+      "date": "2026-03-25",
+      "verified": true
+    },
+    {
+      "author": "Reny E.",
+      "rating": 5,
+      "text": "Maravilhoso",
+      "date": "2026-04-12",
+      "verified": true
+    },
+    {
+      "author": "Mariana C.",
+      "rating": 5,
+      "text": "Sandália maravilhosa! Linda e muito confortável. Estou muito satisfeita com a compra.",
+      "date": "2026-09-20",
+      "verified": true
+    }
+  ]
+}

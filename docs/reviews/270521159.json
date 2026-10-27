@@ -1,0 +1,36 @@
+{
+  "productId": "270521159",
+  "avg": 4.5,
+  "count": 4,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Valeria",
+      "rating": 3,
+      "text": "Recebi a Sandália e depois de ter usa do apenas 2 vezes descolou todo o solado. A loja pediu que eu reenviasse para que pudessem concertar, achei muito trabalho e acabei levando no sapateiro. Acho q poderiam ter trocado mas…",
+      "date": "2026-02-21",
+      "verified": false
+    },
+    {
+      "author": "Beatriz A.",
+      "rating": 5,
+      "text": "Eu comprei para usar na minha viagem de final de ano e agora não quero mais tirar do pé. Mesmo depois de voltar para São Paulo, estou usando para tudo, a rasteira mais confortável que eu tenho e combina com tudo. Já quero de outra cor.",
+      "date": "2026-02-21",
+      "verified": true
+    },
+    {
+      "author": "Paloma A.",
+      "rating": 5,
+      "text": "Adorei a sandália Begur, comprei para conhecer a marca e gostei muito, devo fazer novas compras em breve.",
+      "date": "2026-02-21",
+      "verified": true
+    },
+    {
+      "author": "Elaine T.",
+      "rating": 5,
+      "text": "Excelente acabamento",
+      "date": "2026-10-06",
+      "verified": true
+    }
+  ]
+}

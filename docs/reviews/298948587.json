@@ -1,0 +1,29 @@
+{
+  "productId": "298948587",
+  "avg": 5,
+  "count": 3,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Alessandra M.",
+      "rating": 5,
+      "text": "A minha Laon é sem dúvidas uma das sandálias mais lindas da minha coleção. Super confortável, uma cor lindíssima, chama atenção aonde quer que eu vá! Já estou namorando outras cores do mesmo modelo.",
+      "date": "2026-02-20",
+      "verified": true
+    },
+    {
+      "author": "Beatriz",
+      "rating": 5,
+      "text": "Muito confortável, bonita!!!",
+      "date": "2026-02-24",
+      "verified": true
+    },
+    {
+      "author": "Solange",
+      "rating": 5,
+      "text": "Linda e super confortável",
+      "date": "2026-02-27",
+      "verified": true
+    }
+  ]
+}

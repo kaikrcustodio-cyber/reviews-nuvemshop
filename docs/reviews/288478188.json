@@ -1,0 +1,36 @@
+{
+  "productId": "288478188",
+  "avg": 4.8,
+  "count": 4,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Giovanna G.",
+      "rating": 5,
+      "text": "Amo a minha, linda e bem versátil.",
+      "date": "2026-02-27",
+      "verified": true
+    },
+    {
+      "author": "Margareth P.",
+      "rating": 5,
+      "text": "O produto é maravilhoso, confortável e bonio. Infelizmente como meu tornozelo é grosso, não serviu, mas o atendimento desta loja é fantástico.",
+      "date": "2026-07-29",
+      "verified": true
+    },
+    {
+      "author": "Maria N.",
+      "rating": 5,
+      "text": "Linda, confortável!",
+      "date": "2026-09-22",
+      "verified": true
+    },
+    {
+      "author": "Maria N.",
+      "rating": 4,
+      "text": "Ainda avaliando : a tirinha onde tem a fivela é curta demais, quase não deu!",
+      "date": "2026-09-22",
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "productId": "293280695",
+  "avg": 5,
+  "count": 2,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Rosana S.",
+      "rating": 5,
+      "text": "Compro Regina Rios, a muitos anos, mas esse calçado ficou um encanto nos meus pés. Parabéns recebi vários elogios",
+      "date": "2026-05-04",
+      "verified": true
+    },
+    {
+      "author": "Flavia C.",
+      "rating": 5,
+      "text": "Excelente. Confortável e cor linda",
+      "date": "2026-05-17",
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "productId": "270533290",
+  "avg": 5,
+  "count": 3,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Patrícia P.",
+      "rating": 5,
+      "text": "Adorei o scarpin marinho! É uma cor que sai do preto mas continua super elegante, e o salto baixo é perfeito para o dia a dia.",
+      "date": "2026-02-27",
+      "verified": true
+    },
+    {
+      "author": "Marcia S.",
+      "rating": 5,
+      "text": "Melhor sapato que já comprei na vida.  Super confortável",
+      "date": "2026-06-09",
+      "verified": true
+    },
+    {
+      "author": "Deize T.",
+      "rating": 5,
+      "text": "Muito bom. Produto macio, confortável e bonito. Ainda não sei sobre durabilidade, mas, devido ser couro, acredito que com o tempo ficará cada vez mais confortável. Atendimento excelente. Precisei de troca porque errei o numero e fui muito bem atendida, com rapidez e eficiência. Pretendo adquirir outros modelos em breve.",
+      "date": "2026-07-20",
+      "verified": true
+    }
+  ]
+}

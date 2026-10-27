@@ -1,0 +1,36 @@
+{
+  "productId": "270562711",
+  "avg": 5,
+  "count": 4,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Caroline",
+      "rating": 5,
+      "text": "Sandália muito bonita! Ainda não usei, mas parece confortável. Só achei a forma um pouco grande, uso 37 mas a 36 ficaria mais ajustada. Recebi o pedido em menos de 24 horas, muito bom!",
+      "date": "2026-08-27",
+      "verified": false
+    },
+    {
+      "author": "Caroline",
+      "rating": 5,
+      "text": "Essa sandália é perfeita, altura do saldo ótima para o dia a dia, couro muito macio e confortável. Além de calçar bem, é elegante. Tenho 2 já e quero todas as cores!",
+      "date": "2026-09-04",
+      "verified": false
+    },
+    {
+      "author": "Elisabet C.",
+      "rating": 5,
+      "text": "Simplesmente linda e confortável! Não sai do meu pé!",
+      "date": "2026-09-14",
+      "verified": true
+    },
+    {
+      "author": "Vivian C.",
+      "rating": 5,
+      "text": "A minha sandália...é das melhores que já usei. Eu simplesmente adorei. Combina com saia, vestido, calça... maravilhosa. Confortável demais. Já querendo comprar outros modelos da marca, porque realmente vale investir em um bom calçado.",
+      "date": "2026-09-16",
+      "verified": true
+    }
+  ]
+}

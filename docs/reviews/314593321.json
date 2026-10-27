@@ -1,0 +1,22 @@
+{
+  "productId": "314593321",
+  "avg": 5,
+  "count": 2,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Kassia",
+      "rating": 5,
+      "text": "Amei a minha sandália. Quero usá-la toda hora rsrs.",
+      "date": "2026-08-14",
+      "verified": true
+    },
+    {
+      "author": "Thais A.",
+      "rating": 5,
+      "text": "Eu estou no aguardo de vcs para trocar, ficou pequeno,  já envie e nada ainda",
+      "date": "2026-09-13",
+      "verified": true
+    }
+  ]
+}

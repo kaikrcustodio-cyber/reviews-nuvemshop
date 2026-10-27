@@ -1,0 +1,29 @@
+{
+  "productId": "270533208",
+  "avg": 4,
+  "count": 3,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Karla N.",
+      "rating": 2,
+      "text": "Comprei a segunda desse modelo mas não foi confortável e machucou meu pé",
+      "date": "2026-05-25",
+      "verified": true
+    },
+    {
+      "author": "Elaine M.",
+      "rating": 5,
+      "text": "Comprei um para trabalhar e estou usando todos os dias!!! Super confortável",
+      "date": "2026-07-02",
+      "verified": true
+    },
+    {
+      "author": "Ana R.",
+      "rating": 5,
+      "text": "Sou apaixonada por esse sapato, quero um de cada cor",
+      "date": "2026-07-23",
+      "verified": true
+    }
+  ]
+}

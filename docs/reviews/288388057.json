@@ -1,0 +1,43 @@
+{
+  "productId": "288388057",
+  "avg": 4.6,
+  "count": 5,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Gi",
+      "rating": 5,
+      "text": "linda",
+      "date": "2026-02-21",
+      "verified": true
+    },
+    {
+      "author": "Fabiana H.",
+      "rating": 3,
+      "text": "O material é ótimo e o tamanho é exatamente o meu.\nPorém, ela não fica fixa no pé. As tiras não prendem a sandália adequadamente. pelo menos foi o que aconteceu comigo.",
+      "date": "2026-02-25",
+      "verified": true
+    },
+    {
+      "author": "Paula G.",
+      "rating": 5,
+      "text": "Estou amando a minha, fica ainda mais bonita no pé.",
+      "date": "2026-03-25",
+      "verified": true
+    },
+    {
+      "author": "Laiz C.",
+      "rating": 5,
+      "text": "Tenho muitas de vcs mas essa definitivamente n eh confortável",
+      "date": "2026-09-01",
+      "verified": false
+    },
+    {
+      "author": "Elisabeth R.",
+      "rating": 5,
+      "text": "Confortável e muito bonita",
+      "date": "2026-09-20",
+      "verified": true
+    }
+  ]
+}

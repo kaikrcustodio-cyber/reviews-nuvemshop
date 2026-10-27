@@ -1,0 +1,29 @@
+{
+  "productId": "270535029",
+  "avg": 3.7,
+  "count": 3,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Joana S.",
+      "rating": 5,
+      "text": "Conforto e beleza",
+      "date": "2026-02-23",
+      "verified": false
+    },
+    {
+      "author": "Elvira C.",
+      "rating": 1,
+      "text": "Não me serviu. Ficou grande e largo. Devolvi o produto, porém não recebi nenhuma informação sobre o estorno do valor já pago.",
+      "date": "2026-09-13",
+      "verified": true
+    },
+    {
+      "author": "Maria C.",
+      "rating": 5,
+      "text": "Lindo , muito confortável e elegante",
+      "date": "2026-10-25",
+      "verified": true
+    }
+  ]
+}

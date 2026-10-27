@@ -1,0 +1,22 @@
+{
+  "productId": "318675814",
+  "avg": 5,
+  "count": 2,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Luísa N.",
+      "rating": 5,
+      "text": "Que sandália linda! Já virou minha favorita até para trabalhar.",
+      "date": "2026-02-27",
+      "verified": true
+    },
+    {
+      "author": "Roseli S.",
+      "rating": 5,
+      "text": "lindo e confortavel",
+      "date": "2026-05-06",
+      "verified": true
+    }
+  ]
+}

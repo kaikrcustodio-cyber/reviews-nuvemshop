@@ -1,0 +1,29 @@
+{
+  "productId": "293277604",
+  "avg": 4.3,
+  "count": 3,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Natália B.",
+      "rating": 5,
+      "text": "Maravilhosa essa sandália, só quero usar essa agora, rs.",
+      "date": "2026-02-27",
+      "verified": true
+    },
+    {
+      "author": "Thelma X.",
+      "rating": 3,
+      "text": "Produto de qualidade. Não gostei muito do designe do salto que dá a impressão que vai descolar",
+      "date": "2026-04-21",
+      "verified": true
+    },
+    {
+      "author": "Carla",
+      "rating": 5,
+      "text": "A minha chegou semana passada e tive que vim elogiar, simplesmente perfeita, além de confortável. Já vou comprar mais uma.",
+      "date": "2026-04-23",
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "productId": "288412907",
+  "avg": 4.4,
+  "count": 5,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "MARIA R.",
+      "rating": 2,
+      "text": "Precisei devolver, pois meu pé é largo, mau entrou na sandália.  Mas ela é linda.",
+      "date": "2026-03-17",
+      "verified": true
+    },
+    {
+      "author": "Mara G.",
+      "rating": 5,
+      "text": "Confortável e macio",
+      "date": "2026-03-18",
+      "verified": true
+    },
+    {
+      "author": "Jessica S.",
+      "rating": 5,
+      "text": "Confortável, amei",
+      "date": "2026-03-25",
+      "verified": true
+    },
+    {
+      "author": "Aline B.",
+      "rating": 5,
+      "text": "Perfeita😍 achei a qualidade muito boa e ela fica linda com tudo que eu visto.",
+      "date": "2026-03-25",
+      "verified": true
+    },
+    {
+      "author": "Norberto S.",
+      "rating": 5,
+      "text": "O sapato não e confortável pois tem uma palmilha que não deixa os pés retos no sapato. Tinha uma expectativa muito grande pois o modelo é como eu queria mas não deu certo.",
+      "date": "2026-05-16",
+      "verified": true
+    }
+  ]
+}

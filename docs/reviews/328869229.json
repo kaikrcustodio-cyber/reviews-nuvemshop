@@ -1,0 +1,22 @@
+{
+  "productId": "328869229",
+  "avg": 4,
+  "count": 2,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Eliana",
+      "rating": 3,
+      "text": "Chegou ontem. E hoje já usei. Não achei um calçado confortável.  Doeu muito meu pé.\nNão sei se usarei",
+      "date": "2026-04-11",
+      "verified": false
+    },
+    {
+      "author": "Juliana M.",
+      "rating": 5,
+      "text": "Essa sandália é perfeita! leve, confortável e o acabamento é lindo demais o salto baixinho ajuda muito no dia a dia e ela fica super delicada no pé combina com tudo, tô usando direto!",
+      "date": "2026-04-24",
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "productId": "270560873",
+  "avg": 5,
+  "count": 12,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Karla",
+      "rating": 5,
+      "text": "Muito maravilhoso!",
+      "date": "2026-02-23",
+      "verified": false
+    },
+    {
+      "author": "Elizabeth O.",
+      "rating": 5,
+      "text": "Super confortável",
+      "date": "2026-02-24",
+      "verified": true
+    },
+    {
+      "author": "Maria T.",
+      "rating": 5,
+      "text": "Além de ficar linda no pé também é super confortável!",
+      "date": "2026-02-27",
+      "verified": true
+    },
+    {
+      "author": "Mariluce T.",
+      "rating": 5,
+      "text": "Comprei conforto e elegância, maravilhosa, vou comprar maisss",
+      "date": "2026-02-27",
+      "verified": true
+    },
+    {
+      "author": "Regiane",
+      "rating": 5,
+      "text": "Linda e confortável",
+      "date": "2026-02-27",
+      "verified": true
+    },
+    {
+      "author": "Ângela",
+      "rating": 5,
+      "text": "Super confortável, bonita e elegante.",
+      "date": "2026-02-27",
+      "verified": true
+    },
+    {
+      "author": "Kelen F.",
+      "rating": 5,
+      "text": "Excelente produto. Delicada, refinada, autêntica e indiscutivelmente linda!!! O conforto ao calçar e andar é enorme.",
+      "date": "2026-02-27",
+      "verified": true
+    },
+    {
+      "author": "Vera W.",
+      "rating": 5,
+      "text": "Calçado leve e confortável.  Correspondeu a expectativa.",
+      "date": "2026-02-27",
+      "verified": true
+    },
+    {
+      "author": "FLAVIO A.",
+      "rating": 5,
+      "text": "Excelente produto e muito confortável",
+      "date": "2026-03-14",
+      "verified": true
+    },
+    {
+      "author": "Maria J.",
+      "rating": 5,
+      "text": "adorei, muito linda e confortável.",
+      "date": "2026-06-23",
+      "verified": true
+    },
+    {
+      "author": "Andreia R.",
+      "rating": 5,
+      "text": "Lindo, quero comprar em outra cor. Bom atendimento, troca rápida!!",
+      "date": "2026-08-13",
+      "verified": true
+    },
+    {
+      "author": "Grazielle L.",
+      "rating": 5,
+      "text": "Amei",
+      "date": "2026-10-04",
+      "verified": true
+    }
+  ]
+}

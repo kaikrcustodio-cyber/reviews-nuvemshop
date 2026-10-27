@@ -1,0 +1,43 @@
+{
+  "productId": "325172295",
+  "avg": 5,
+  "count": 5,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Margarete T.",
+      "rating": 5,
+      "text": "Sandália elegante e charmosa, de design atemporal. Na medida ideal para quem busca conforto aliado à sofisticacao no vestir.",
+      "date": "2026-02-24",
+      "verified": true
+    },
+    {
+      "author": "Laura M.",
+      "rating": 5,
+      "text": "Fiquei muito satisfeita com a qualidade. Além disso é linda e veste super bem😍",
+      "date": "2026-02-25",
+      "verified": true
+    },
+    {
+      "author": "Sofia L.",
+      "rating": 5,
+      "text": "Maravilhosa! Comprei para usar em um evento mas gostei tanto que estou usando até para trabalhar.",
+      "date": "2026-02-27",
+      "verified": true
+    },
+    {
+      "author": "Maria G.",
+      "rating": 5,
+      "text": "Maravilhosaaaaa!!!\n11 horas dançando e andando numa festa e nem percebi que estava de salto.\nAMEIIIII!!!!",
+      "date": "2026-08-25",
+      "verified": true
+    },
+    {
+      "author": "Mara V.",
+      "rating": 5,
+      "text": "Sandália excelente!! Um conforto, fiquei o baile de formatura inteiro com ela e no fim meus pés estavam bem.",
+      "date": "2026-08-27",
+      "verified": true
+    }
+  ]
+}

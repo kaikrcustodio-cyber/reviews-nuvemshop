@@ -1,0 +1,50 @@
+{
+  "productId": "270520677",
+  "avg": 4.8,
+  "count": 6,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Gabriela D.",
+      "rating": 5,
+      "text": "Gostei muito da rasteira, ela é discreta e fácil de usar com tudo",
+      "date": "2026-02-27",
+      "verified": true
+    },
+    {
+      "author": "Júlia R.",
+      "rating": 4,
+      "text": "Amei o acabamento e o material, estou usando bastante",
+      "date": "2026-03-03",
+      "verified": true
+    },
+    {
+      "author": "Vitória P.",
+      "rating": 5,
+      "text": "Adorei a cor e o salto baixo, é versátil e combina com tudo.",
+      "date": "2026-03-25",
+      "verified": true
+    },
+    {
+      "author": "Larissa M.",
+      "rating": 5,
+      "text": "Apaixonada! 😍 Vou comprar mais uma mês que vem.",
+      "date": "2026-03-25",
+      "verified": true
+    },
+    {
+      "author": "Cristina S.",
+      "rating": 5,
+      "text": "Eu gostei muito do produto. Ao abrir a caixa pude ver que se tratava de uma sandália de couro verdadeiro, aí experimentei e serviu certinho no meu pé. Fiquei muito feliz,pois calçando 40 não é fácil encontrar qualidade e conforto. Fiquei fã!",
+      "date": "2026-09-07",
+      "verified": true
+    },
+    {
+      "author": "Samara S.",
+      "rating": 5,
+      "text": "Adorei minha sandália, chegou no prazo, tudo certinho!",
+      "date": "2026-09-15",
+      "verified": true
+    }
+  ]
+}

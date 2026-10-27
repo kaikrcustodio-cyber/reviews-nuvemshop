@@ -1,0 +1,29 @@
+{
+  "productId": "270518629",
+  "avg": 4,
+  "count": 3,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Larissa C.",
+      "rating": 5,
+      "text": "Gostei muito",
+      "date": "2026-02-27",
+      "verified": true
+    },
+    {
+      "author": "Fabiana D.",
+      "rating": 2,
+      "text": "ela é desconfortável. aperta os dedos dos pés",
+      "date": "2026-03-26",
+      "verified": true
+    },
+    {
+      "author": "Ana F.",
+      "rating": 5,
+      "text": "Maravilhosa não vejo a hora de usa-la.\nVou comprar mais.\nObrigada",
+      "date": "2026-04-08",
+      "verified": true
+    }
+  ]
+}

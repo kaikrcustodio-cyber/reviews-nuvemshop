@@ -1,0 +1,29 @@
+{
+  "productId": "312153745",
+  "avg": 5,
+  "count": 3,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Alexandra S.",
+      "rating": 5,
+      "text": "A sandália é lindaaaaaaa.",
+      "date": "2026-05-15",
+      "verified": true
+    },
+    {
+      "author": "Glauce M.",
+      "rating": 5,
+      "text": "Muito bom.\nAcabamento impecável !\nPerfeito!",
+      "date": "2026-06-18",
+      "verified": true
+    },
+    {
+      "author": "Marta E.",
+      "rating": 5,
+      "text": "Amei a sandália, super delicada e confortável",
+      "date": "2026-10-13",
+      "verified": true
+    }
+  ]
+}

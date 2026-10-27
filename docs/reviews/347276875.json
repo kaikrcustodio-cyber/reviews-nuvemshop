@@ -1,0 +1,22 @@
+{
+  "productId": "347276875",
+  "avg": 3,
+  "count": 2,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Denise S.",
+      "rating": 1,
+      "text": "A parte do calcanhar machucado muito os pés. Desconfortável e com acabamento ruim.",
+      "date": "2026-07-10",
+      "verified": true
+    },
+    {
+      "author": "Patrícia",
+      "rating": 5,
+      "text": "Achei ele ainda mais bonito pessoalmente. Ficou perfeito no pé e muito confortável.",
+      "date": "2026-07-16",
+      "verified": true
+    }
+  ]
+}

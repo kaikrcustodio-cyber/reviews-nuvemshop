@@ -1,0 +1,22 @@
+{
+  "productId": "281216315",
+  "avg": 3.5,
+  "count": 2,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Márcia A.",
+      "rating": 2,
+      "text": "Um pé veio com a cola mal colocada.",
+      "date": "2026-03-31",
+      "verified": false
+    },
+    {
+      "author": "Camila R.",
+      "rating": 5,
+      "text": "Esse sapato é lindo demais! 😍 o salto é super estável e dá pra usar o dia todo sem cansar, combina com tudo já virou meu queridinho!",
+      "date": "2026-04-24",
+      "verified": true
+    }
+  ]
+}

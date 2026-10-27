@@ -1,0 +1,43 @@
+{
+  "productId": "312796503",
+  "avg": 4.4,
+  "count": 5,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Carolina V.",
+      "rating": 5,
+      "text": "o elástico atrás facilita demais, é só colocar e sair",
+      "date": "2026-02-24",
+      "verified": true
+    },
+    {
+      "author": "Regina L.",
+      "rating": 5,
+      "text": "Fiquei apaixonada quando vi essa sandália no Instagram e amei ainda mais quando calcei. Que sandália linda.",
+      "date": "2026-02-27",
+      "verified": true
+    },
+    {
+      "author": "Leticia B.",
+      "rating": 5,
+      "text": "Linda",
+      "date": "2026-08-09",
+      "verified": true
+    },
+    {
+      "author": "Camila M.",
+      "rating": 2,
+      "text": "Nunca precisei devolver uma sapato por ser desconfortável! Primeiro sapato da marca q o fiz",
+      "date": "2026-08-24",
+      "verified": true
+    },
+    {
+      "author": "Lucy C.",
+      "rating": 5,
+      "text": "Extremamente satisfeita com o produto adquirido. Anteriormente já adquiri outros e gostei de todos.",
+      "date": "2026-08-28",
+      "verified": true
+    }
+  ]
+}

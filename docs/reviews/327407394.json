@@ -1,0 +1,43 @@
+{
+  "productId": "327407394",
+  "avg": 4.6,
+  "count": 5,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Valentina T.",
+      "rating": 5,
+      "text": "Perfeito! Meu  tipo de sapato preferido é um básico bem feito!",
+      "date": "2026-02-27",
+      "verified": true
+    },
+    {
+      "author": "Marina R.",
+      "rating": 3,
+      "text": "Achei o sapato pouco confortável e, honestamente, o acabamento é todo muito simples, não faz a menor vista de sapato de boa qualidade.",
+      "date": "2026-07-01",
+      "verified": true
+    },
+    {
+      "author": "Bianca C.",
+      "rating": 5,
+      "text": "Eu amei o produto. Lindo, confortável e super delicado. Já estou comprando outro!",
+      "date": "2026-07-12",
+      "verified": true
+    },
+    {
+      "author": "Fabiane B.",
+      "rating": 5,
+      "text": "Adorei. Super confortável já na primeira utilização.",
+      "date": "2026-07-16",
+      "verified": true
+    },
+    {
+      "author": "Ana C.",
+      "rating": 5,
+      "text": "Adorei o sapato. Lindo e confortável.",
+      "date": "2026-07-23",
+      "verified": true
+    }
+  ]
+}

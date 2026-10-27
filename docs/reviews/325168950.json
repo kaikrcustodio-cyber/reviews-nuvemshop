@@ -1,0 +1,29 @@
+{
+  "productId": "325168950",
+  "avg": 5,
+  "count": 3,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Ana G.",
+      "rating": 5,
+      "text": "Maravilhosa! Uso com tudo e é muito confortável.",
+      "date": "2026-02-25",
+      "verified": true
+    },
+    {
+      "author": "Ana L.",
+      "rating": 5,
+      "text": "Comprei e simplismente amei !!!! Super confortavél e  Lindaaaaaa!",
+      "date": "2026-03-06",
+      "verified": true
+    },
+    {
+      "author": "MARIA R.",
+      "rating": 5,
+      "text": "Ficou super confortável no meu pé.",
+      "date": "2026-03-17",
+      "verified": true
+    }
+  ]
+}

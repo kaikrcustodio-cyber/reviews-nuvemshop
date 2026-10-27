@@ -1,0 +1,43 @@
+{
+  "productId": "327407250",
+  "avg": 4.6,
+  "count": 5,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Maria S.",
+      "rating": 5,
+      "text": "Apaixonada com a beleza e o conforto desse scarpin! Amei a cor  e ele é macio demais nos pés. Já quero usar todo dia!",
+      "date": "2026-02-24",
+      "verified": true
+    },
+    {
+      "author": "Ana P.",
+      "rating": 5,
+      "text": "Chegou e já usei! Confesso que fiquei receosa com o salto, mas ele é tão confortável que parece que não estou usando salto. Dá pra passar o dia todo no escritório e ainda esticar para noite. Amei!",
+      "date": "2026-02-27",
+      "verified": true
+    },
+    {
+      "author": "Martina V.",
+      "rating": 5,
+      "text": "Genteee estou amando meu sapato novo, super confortável!",
+      "date": "2026-04-02",
+      "verified": true
+    },
+    {
+      "author": "Susy O.",
+      "rating": 5,
+      "text": "Estive em um baile de formatura de minha filha, o sapato ficou muito confortável a noite toda ! Gostei muito, com certeza voltarei a comprar.\nO pacote chegou muito bem embalado e antes do prazo.\nObrigada !",
+      "date": "2026-04-07",
+      "verified": true
+    },
+    {
+      "author": "Fernanda M.",
+      "rating": 3,
+      "text": "O sapato é lindo. Demorei ter coragem para pedir porque não é um produto barato e porque fico sempre cismada com saltos revestidos. Dito e feito, na primeira vez que usei já achei que o sapato ficou riscado, principalmente o salto. Queria comprar outras cores, mas isso me desmotiva um pouco.",
+      "date": "2026-09-04",
+      "verified": true
+    }
+  ]
+}

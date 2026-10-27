@@ -1,0 +1,50 @@
+{
+  "productId": "333785197",
+  "avg": 4.5,
+  "count": 6,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Juliana S.",
+      "rating": 2,
+      "text": "Erraram FEIO com o solado dessa bota! Duro e sem antiderrapante 😔\nImagino o sucesso se fosse o mesmo solado emborrachado e molinho das sandálias!",
+      "date": "2026-04-16",
+      "verified": true
+    },
+    {
+      "author": "Camila S.",
+      "rating": 5,
+      "text": "Amei a bota! Muito confortável e bonita, combina com tudo. Vale a pena!",
+      "date": "2026-04-17",
+      "verified": true
+    },
+    {
+      "author": "Jacqueline A.",
+      "rating": 5,
+      "text": "Adorei a minha, combinou com meu estilo!",
+      "date": "2026-04-17",
+      "verified": true
+    },
+    {
+      "author": "Ana L.",
+      "rating": 5,
+      "text": "Super linda! vou usar muito!",
+      "date": "2026-04-17",
+      "verified": true
+    },
+    {
+      "author": "Lorena B.",
+      "rating": 5,
+      "text": "Dei para minha mãe de presente e ela está simplesmente apaixonada",
+      "date": "2026-04-17",
+      "verified": true
+    },
+    {
+      "author": "Nayara A.",
+      "rating": 5,
+      "text": "Achei super confortável, estou pisando nas núvens, tudo verdade o que postam!",
+      "date": "2026-04-17",
+      "verified": true
+    }
+  ]
+}

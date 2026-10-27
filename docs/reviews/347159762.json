@@ -1,0 +1,22 @@
+{
+  "productId": "347159762",
+  "avg": 4.5,
+  "count": 2,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Sônia M.",
+      "rating": 5,
+      "text": "A bota é linda e confortável, só achei ela muito barulhenta, mas gostei bastante.\nMuito obrigada",
+      "date": "2026-06-21",
+      "verified": true
+    },
+    {
+      "author": "Eliana L.",
+      "rating": 4,
+      "text": "A bota é bonita e confortável,  o único \"porém\" é que pelo preço, poderia não ter a costura central.",
+      "date": "2026-07-10",
+      "verified": true
+    }
+  ]
+}

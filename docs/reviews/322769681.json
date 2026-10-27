@@ -1,0 +1,29 @@
+{
+  "productId": "322769681",
+  "avg": 4.7,
+  "count": 3,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Isabella M.",
+      "rating": 5,
+      "text": "Comprei essa sapatilha e amei!! Não quero mais tirar do pé!! Vou comprar mais cores!!! Muito elegante e confortável!!!",
+      "date": "2026-02-27",
+      "verified": true
+    },
+    {
+      "author": "ISLAINE S.",
+      "rating": 4,
+      "text": "Amei minha compra, lindo lindo\nSuper confortável, cor maravilhosa, o tamanho veio certinho",
+      "date": "2026-05-04",
+      "verified": true
+    },
+    {
+      "author": "Paulety A.",
+      "rating": 5,
+      "text": "Super leve,delicado,simplesmente amei!!$",
+      "date": "2026-06-04",
+      "verified": true
+    }
+  ]
+}

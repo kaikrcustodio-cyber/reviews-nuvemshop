@@ -1,0 +1,29 @@
+{
+  "productId": "327407779",
+  "avg": 5,
+  "count": 3,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Danielle M.",
+      "rating": 5,
+      "text": "Amei o meu",
+      "date": "2026-02-27",
+      "verified": true
+    },
+    {
+      "author": "Cecilia V.",
+      "rating": 5,
+      "text": "Lindo sapato, amei! Veste super bem!!!",
+      "date": "2026-03-20",
+      "verified": true
+    },
+    {
+      "author": "Thais B.",
+      "rating": 5,
+      "text": "bonito e confortável!!!",
+      "date": "2026-06-15",
+      "verified": true
+    }
+  ]
+}

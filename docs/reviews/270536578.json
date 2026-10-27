@@ -1,0 +1,29 @@
+{
+  "productId": "270536578",
+  "avg": 4.7,
+  "count": 3,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Ana R.",
+      "rating": 5,
+      "text": "Amei!!! Super confortável e muito moderno. Apaixonada pela minha aquisição.",
+      "date": "2026-02-20",
+      "verified": true
+    },
+    {
+      "author": "Vania",
+      "rating": 4,
+      "text": "Amei! Eu tenho de duas cores diferentes e uso muito. Para trabalhar e também para o dia a dia.",
+      "date": "2026-02-20",
+      "verified": true
+    },
+    {
+      "author": "Ana",
+      "rating": 5,
+      "text": "Maravilhoso!!! Amei e agora quero outras cores.",
+      "date": "2026-03-09",
+      "verified": true
+    }
+  ]
+}

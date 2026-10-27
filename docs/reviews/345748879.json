@@ -1,0 +1,29 @@
+{
+  "productId": "345748879",
+  "avg": 5,
+  "count": 3,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Patricia",
+      "rating": 5,
+      "text": "A bota é linda! Numeração certinha!",
+      "date": "2026-06-15",
+      "verified": true
+    },
+    {
+      "author": "Priscilla R.",
+      "rating": 5,
+      "text": "Bota linda, excelente e confortável",
+      "date": "2026-06-16",
+      "verified": true
+    },
+    {
+      "author": "Sonia R.",
+      "rating": 5,
+      "text": "Bota linda, confortável, couro de exeletne qualidade. produto corresponde exatamente a foto do site , tando na cor quanto no modelo, exelente custo benefício.",
+      "date": "2026-06-21",
+      "verified": true
+    }
+  ]
+}

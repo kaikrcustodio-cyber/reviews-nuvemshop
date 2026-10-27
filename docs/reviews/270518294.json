@@ -1,0 +1,43 @@
+{
+  "productId": "270518294",
+  "avg": 5,
+  "count": 5,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Vanessa C.",
+      "rating": 5,
+      "text": "Tenha uma e sou apaixonada por ela! Uso muito😍",
+      "date": "2026-02-23",
+      "verified": true
+    },
+    {
+      "author": "Patrícia M.",
+      "rating": 5,
+      "text": "Linda e muito confortável!",
+      "date": "2026-02-27",
+      "verified": true
+    },
+    {
+      "author": "Ana B.",
+      "rating": 5,
+      "text": "Forma pequena.",
+      "date": "2026-03-13",
+      "verified": true
+    },
+    {
+      "author": "Sabrina P.",
+      "rating": 5,
+      "text": "Sandália maravilhosa. Linda e confortável. Essa é a segunda cor que compro.",
+      "date": "2026-06-08",
+      "verified": true
+    },
+    {
+      "author": "Elaine M.",
+      "rating": 5,
+      "text": "Muito confortável.",
+      "date": "2026-09-19",
+      "verified": true
+    }
+  ]
+}

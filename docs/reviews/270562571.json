@@ -1,0 +1,36 @@
+{
+  "productId": "270562571",
+  "avg": 3.8,
+  "count": 4,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Camila P.",
+      "rating": 4,
+      "text": "Gostei mto do sapato, confortável e bonito .",
+      "date": "2026-02-25",
+      "verified": true
+    },
+    {
+      "author": "Mariana D.",
+      "rating": 4,
+      "text": "Lindo, mas a parte onde ficam os dedos é mto baixa e apertada.",
+      "date": "2026-05-10",
+      "verified": true
+    },
+    {
+      "author": "Beatriz C.",
+      "rating": 2,
+      "text": "Puxa, minha experiência não foi muito boa. Me deu bolha embaixo dos dedos. Talvez pelo tecido embaixo.\nFicou bem desconfortável e só consegui usar uma vez",
+      "date": "2026-08-30",
+      "verified": true
+    },
+    {
+      "author": "Marcia R.",
+      "rating": 5,
+      "text": "Ganheide aniversário das minhas amigas, que sandália maravilhosa, simplesmente apaixonada!!",
+      "date": "2026-10-26",
+      "verified": false
+    }
+  ]
+}

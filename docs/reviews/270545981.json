@@ -1,0 +1,29 @@
+{
+  "productId": "270545981",
+  "avg": 4.3,
+  "count": 3,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Michelli",
+      "rating": 5,
+      "text": "A sandália é linda e super confortável.  Sempre que uso, recebo elogios!!",
+      "date": "2026-02-21",
+      "verified": true
+    },
+    {
+      "author": "Roberta M.",
+      "rating": 5,
+      "text": "Sandália muito confortável e linda. Destaco o excelente atendimento: a tira que envolve o tornozelo veio em um tamanho menor, minha perna é grossa e não teria como usar. Entrei em contato com o pós venda e prontamente enviaram tiras novas tamanho maior",
+      "date": "2026-02-23",
+      "verified": true
+    },
+    {
+      "author": "Luciane U.",
+      "rating": 3,
+      "text": "Gostei muito\nEla é linda\nBem estilosa\nSó achei ela um pouco Dra\nNão é tão confortável como parece!",
+      "date": "2026-04-07",
+      "verified": true
+    }
+  ]
+}

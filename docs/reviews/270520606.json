@@ -1,0 +1,106 @@
+{
+  "productId": "270520606",
+  "avg": 4.5,
+  "count": 14,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "FLAVIA",
+      "rating": 5,
+      "text": "Minha rasteira favorita! Além de linda, ela combina com tudo e é super confortável. Não quero mais tirar do pé.",
+      "date": "2026-02-20",
+      "verified": true
+    },
+    {
+      "author": "Mariana S.",
+      "rating": 5,
+      "text": "Gente, que sandália maravilhosa! O dourado é sofisticado na medida certa, não é exagerado. Super confortável, usei o dia inteiro e meu pé não doeu nada!",
+      "date": "2026-02-23",
+      "verified": true
+    },
+    {
+      "author": "Rosana",
+      "rating": 5,
+      "text": "Linda e muito confortável, amei!!",
+      "date": "2026-02-23",
+      "verified": false
+    },
+    {
+      "author": "Manuela C.",
+      "rating": 4,
+      "text": "Adquiri a rasteira e estou satisfeita. O material é de boa qualidade e o design é simples, mas charmoso. É prática e veste bem, combinando com várias peças do meu guarda-roupa",
+      "date": "2026-02-24",
+      "verified": true
+    },
+    {
+      "author": "Helena R.",
+      "rating": 5,
+      "text": "Gostei muito dessa rasteira. Ela é bem arrumadinha para o dia a dia e o couro é macio, não machuca o pé.",
+      "date": "2026-02-27",
+      "verified": true
+    },
+    {
+      "author": "Sandália B.",
+      "rating": 5,
+      "text": "Super coringa, uso o tempo todo! Amei e já quero de outra cor",
+      "date": "2026-03-03",
+      "verified": true
+    },
+    {
+      "author": "Katia F.",
+      "rating": 5,
+      "text": "Muito confortável e linda.",
+      "date": "2026-03-15",
+      "verified": true
+    },
+    {
+      "author": "Fernanda B.",
+      "rating": 1,
+      "text": "Devolvido\nEmbora o modelo tenha sido o qte mais gostei, produto mal acabado, costura mal feita espuma aparente",
+      "date": "2026-03-30",
+      "verified": true
+    },
+    {
+      "author": "Bruna C.",
+      "rating": 5,
+      "text": "Apaixonada por essa rasteira, mês que vem vou comprar em outra cor. Super coringa e confortável, nao quero mais tirar do pé.",
+      "date": "2026-03-31",
+      "verified": true
+    },
+    {
+      "author": "Ana G.",
+      "rating": 5,
+      "text": "Perfeita, linda e super confortável, comprarei outras cores com certeza.",
+      "date": "2026-03-31",
+      "verified": true
+    },
+    {
+      "author": "Thaiza P.",
+      "rating": 5,
+      "text": "Super confortável. Recomendo também por ser muito linda.",
+      "date": "2026-04-07",
+      "verified": true
+    },
+    {
+      "author": "Cecilia A.",
+      "rating": 3,
+      "text": "Achei que o solado nao passa uma aparência de qualidade, ainda que a sandalia seja bonita.",
+      "date": "2026-04-15",
+      "verified": true
+    },
+    {
+      "author": "Michelle P.",
+      "rating": 5,
+      "text": "Achei a Qualidade ótima, muito confortável e linda!",
+      "date": "2026-04-20",
+      "verified": true
+    },
+    {
+      "author": "Fernanda C.",
+      "rating": 5,
+      "text": "Maravilhosa e supreendentemente confortável!",
+      "date": "2026-10-13",
+      "verified": true
+    }
+  ]
+}

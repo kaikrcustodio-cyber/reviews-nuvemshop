@@ -1,0 +1,29 @@
+{
+  "productId": "321668013",
+  "avg": 5,
+  "count": 3,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Isadora V.",
+      "rating": 5,
+      "text": "Ao vivo ela é ainda mais linda, esse bronze é chique demais",
+      "date": "2026-02-24",
+      "verified": true
+    },
+    {
+      "author": "Denise C.",
+      "rating": 5,
+      "text": "Sandália com ótimo caimento, salto confortável e chic.",
+      "date": "2026-03-13",
+      "verified": true
+    },
+    {
+      "author": "Thaiza P.",
+      "rating": 5,
+      "text": "Sandália linda e fácil de calçar.",
+      "date": "2026-04-07",
+      "verified": true
+    }
+  ]
+}

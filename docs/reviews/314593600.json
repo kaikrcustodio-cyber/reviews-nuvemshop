@@ -1,0 +1,43 @@
+{
+  "productId": "314593600",
+  "avg": 4.4,
+  "count": 5,
+  "updatedAt": "2026-10-27",
+  "reviews": [
+    {
+      "author": "Rebeca R.",
+      "rating": 5,
+      "text": "Maravilhosa essa sandália, classica mas com personalidade. Amei",
+      "date": "2026-02-24",
+      "verified": true
+    },
+    {
+      "author": "Eloá G.",
+      "rating": 5,
+      "text": "Um achado! Estava procurando uma sandália eleganta e confortável assim.",
+      "date": "2026-02-27",
+      "verified": true
+    },
+    {
+      "author": "Yasmin D.",
+      "rating": 5,
+      "text": "Gostei muito",
+      "date": "2026-03-25",
+      "verified": true
+    },
+    {
+      "author": "Melissa C.",
+      "rating": 5,
+      "text": "Linda e sofisticada",
+      "date": "2026-03-25",
+      "verified": true
+    },
+    {
+      "author": "Julia",
+      "rating": 2,
+      "text": "Embora lindo machucou meu pé absurdamente. Os dois calcanhares ficaram com bolhas enormes. Já tem 10 dias que usei a sandália e ainda não posso usar sapato que pega no calcanhar....",
+      "date": "2026-09-08",
+      "verified": true
+    }
+  ]
+}
