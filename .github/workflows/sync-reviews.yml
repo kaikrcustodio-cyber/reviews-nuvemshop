@@ -1,0 +1,39 @@
+name: Sincronizar avaliacoes
+
+on:
+  schedule:
+    - cron: '0 8 * * *'   # todo dia as 05:00 (horario de Brasilia)
+  workflow_dispatch:       # botao "Run workflow" para rodar na hora
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-reviews
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Buscar avaliacoes
+        run: node sync-reviews.js --all --out docs/reviews
+
+      - name: Publicar alteracoes
+        run: |
+          git config user.name "reviews-bot"
+          git config user.email "reviews-bot@users.noreply.github.com"
+          git add docs/reviews
+          if git diff --cached --quiet; then
+            echo "Sem alteracoes."
+          else
+            git commit -m "Atualiza avaliacoes $(date -u +%Y-%m-%d)"
+            git push
+          fi
