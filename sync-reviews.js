@@ -1,8 +1,5 @@
 /*
- * Regina Rios - sincroniza avaliacoes do Lily para JSON estatico (sem dados pessoais).
- * Uso:  node sync-reviews.js --ids 276894708,374364910 [--out docs/reviews] [--per-page 10]
- * Saida: <out>/<idNuvemshop>.json e <out>/index.json
- * Sem dependencias (Node 18+).
+ * Regina Rios - sincroniza avaliacoes do Lily para JSON estatico
  */
 const fs = require('fs');
 const path = require('path');
@@ -34,7 +31,6 @@ async function getBuildId(sampleId) {
   return m[1];
 }
 
-// ID interno do Lily para um produto da Nuvemshop (a leitura do _next/data traz dados pessoais: so o id e usado)
 async function internalId(buildId, nsId) {
   const j = await get(`${BASE}/_next/data/${buildId}/reviews/${STORE}/${nsId}/nuvemshop.json?store=${STORE}&product_id=${nsId}&platform=nuvemshop`);
   const m = JSON.stringify(j).match(/"product_id":"?(\d+)/);
@@ -49,7 +45,6 @@ function shortName(full) {
   return first + ' ' + parts[parts.length - 1].charAt(0).toUpperCase() + '.';
 }
 
-// remove e-mails/telefones digitados pelo cliente no proprio texto
 function scrub(text) {
   return String(text || '')
     .replace(/[\w.+-]+@[\w-]+\.[\w.-]+/g, '[contato removido]')
