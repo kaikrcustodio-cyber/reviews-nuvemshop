@@ -1,8 +1,8 @@
 {
   "productId": "347276875",
-  "avg": 3,
-  "count": 2,
-  "updatedAt": "2026-10-27",
+  "avg": 3.7,
+  "count": 3,
+  "updatedAt": "2026-10-29",
   "reviews": [
     {
       "author": "Denise S.",
@@ -17,6 +17,13 @@
       "text": "Achei ele ainda mais bonito pessoalmente. Ficou perfeito no pé e muito confortável.",
       "date": "2026-07-16",
       "verified": true
+    },
+    {
+      "author": "Sandra",
+      "rating": 5,
+      "text": "Pensei que fosse mais bonito ! Não gostei tanto, só compro na Regina Rios e este me decepcionou um pouco nota 3",
+      "date": "2026-10-29",
+      "verified": false
     }
   ]
 }
