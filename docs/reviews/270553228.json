@@ -1,8 +1,8 @@
 {
   "productId": "270553228",
   "avg": 4.8,
-  "count": 24,
-  "updatedAt": "2026-10-27",
+  "count": 25,
+  "updatedAt": "2026-11-02",
   "reviews": [
     {
       "author": "Leticia N.",
@@ -170,6 +170,13 @@
       "rating": 5,
       "text": "Já começo a marca a muitos anos. Os sapatos são de excelente qualidade.  A entrega é super rápida.",
       "date": "2026-10-02",
+      "verified": true
+    },
+    {
+      "author": "Priscila A.",
+      "rating": 5,
+      "text": "Adorei, lindinho, super confortável. Valeu o investimento!",
+      "date": "2026-11-02",
       "verified": true
     }
   ]
