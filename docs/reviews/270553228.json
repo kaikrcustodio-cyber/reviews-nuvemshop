@@ -1,8 +1,8 @@
 {
   "productId": "270553228",
   "avg": 4.8,
-  "count": 25,
-  "updatedAt": "2026-11-02",
+  "count": 26,
+  "updatedAt": "2026-11-04",
   "reviews": [
     {
       "author": "Leticia N.",
@@ -177,6 +177,13 @@
       "rating": 5,
       "text": "Adorei, lindinho, super confortável. Valeu o investimento!",
       "date": "2026-11-02",
+      "verified": true
+    },
+    {
+      "author": "Fabiane M.",
+      "rating": 5,
+      "text": "Sempre gostei dos sapatos da Regina Rios pela qualidade e conforto.\nUsei o dia todo e não me machucou.",
+      "date": "2026-11-04",
       "verified": true
     }
   ]
