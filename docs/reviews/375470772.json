@@ -1,0 +1,29 @@
+{
+  "productId": "375470772",
+  "avg": 5,
+  "count": 3,
+  "updatedAt": "2026-11-06",
+  "reviews": [
+    {
+      "author": "Ana C.",
+      "rating": 5,
+      "text": "A minha chegou ontem e estou apaixonada, vou querer de outra cor",
+      "date": "2026-11-04",
+      "verified": true
+    },
+    {
+      "author": "Larissa S.",
+      "rating": 5,
+      "text": "Conforto, qualidade!! Combina com tudo",
+      "date": "2026-11-05",
+      "verified": false
+    },
+    {
+      "author": "Vanessa A.",
+      "rating": 5,
+      "text": "Amei, linda e com um solado emborrachado da a sensação de estar pisando em algodão. Um luxo a embalagem e um cuidado com o transporte.",
+      "date": "2026-11-06",
+      "verified": false
+    }
+  ]
+}

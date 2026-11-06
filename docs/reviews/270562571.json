@@ -1,8 +1,8 @@
 {
   "productId": "270562571",
-  "avg": 3.8,
-  "count": 4,
-  "updatedAt": "2026-10-27",
+  "avg": 4.2,
+  "count": 6,
+  "updatedAt": "2026-11-06",
   "reviews": [
     {
       "author": "Camila P.",
@@ -30,6 +30,20 @@
       "rating": 5,
       "text": "Ganheide aniversário das minhas amigas, que sandália maravilhosa, simplesmente apaixonada!!",
       "date": "2026-10-26",
+      "verified": false
+    },
+    {
+      "author": "Maria S.",
+      "rating": 5,
+      "text": "Amei ,bonita e confortável.",
+      "date": "2026-11-05",
+      "verified": false
+    },
+    {
+      "author": "Julia S.",
+      "rating": 5,
+      "text": "É de boa qualidade e muito chique!",
+      "date": "2026-11-05",
       "verified": false
     }
   ]
