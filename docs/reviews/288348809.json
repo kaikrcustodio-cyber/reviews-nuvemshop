@@ -1,8 +1,8 @@
 {
   "productId": "288348809",
-  "avg": 5,
-  "count": 1,
-  "updatedAt": "2026-10-27",
+  "avg": 3.5,
+  "count": 2,
+  "updatedAt": "2026-11-07",
   "reviews": [
     {
       "author": "Natália M.",
@@ -10,6 +10,13 @@
       "text": "Simplesmente amei, combina com tudo que tenho no guarda roupa, fora que é super confortável!!!",
       "date": "2026-09-28",
       "verified": false
+    },
+    {
+      "author": "Emilia K.",
+      "rating": 2,
+      "text": "A sandália é linda, porém só calçá-lá, senti um grande desconforto, pois s medida em que o pé se apoia no chão, o salto se inclina p frente, só tocando c uma parte do mesmo no chão.",
+      "date": "2026-11-07",
+      "verified": true
     }
   ]
 }
