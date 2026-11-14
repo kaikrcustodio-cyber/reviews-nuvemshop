@@ -1,8 +1,8 @@
 {
   "productId": "270535029",
-  "avg": 4,
-  "count": 4,
-  "updatedAt": "2026-10-28",
+  "avg": 3.6,
+  "count": 5,
+  "updatedAt": "2026-11-14",
   "reviews": [
     {
       "author": "Joana S.",
@@ -30,6 +30,13 @@
       "rating": 5,
       "text": "Maravilhoso!!!\nPena que tive que trocar, pois ficou grande!",
       "date": "2026-10-27",
+      "verified": true
+    },
+    {
+      "author": "Claudia O.",
+      "rating": 2,
+      "text": "O produto apesar de ter pedido número 38 e ter vindo marcado 38. O tamanho era diferente, provavelmente 40. Pensei em trocar, mas com a garantia que viria no tamanho certo, mas infelizmente não obtive resposta no WhatsApp. Segue foto que mandei pelo WhatsApp.  Acho que atendimento no WhatsApp poderia ser melhor. Outra vez, a pessoa foi muito prestativa e resolvemos com a troca, desta vez foi devolução. Os dois lados perderam, eu perdi por ser um sapato que eu queria e vcs a venda e talvez uma cliente, pois não sei qual a minha numeração agora, apesar de ter comprado uns 6 sapatos de vcs no último ano.",
+      "date": "2026-11-14",
       "verified": true
     }
   ]
