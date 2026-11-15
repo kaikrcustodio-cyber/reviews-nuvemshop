@@ -1,8 +1,8 @@
 {
   "productId": "270560873",
   "avg": 5,
-  "count": 12,
-  "updatedAt": "2026-10-27",
+  "count": 13,
+  "updatedAt": "2026-11-15",
   "reviews": [
     {
       "author": "Karla",
@@ -86,6 +86,13 @@
       "rating": 5,
       "text": "Amei",
       "date": "2026-10-04",
+      "verified": true
+    },
+    {
+      "author": "Ana A.",
+      "rating": 5,
+      "text": "Extremamente elegante e confortável.",
+      "date": "2026-11-14",
       "verified": true
     }
   ]
