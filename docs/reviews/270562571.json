@@ -1,8 +1,8 @@
 {
   "productId": "270562571",
-  "avg": 4.2,
-  "count": 6,
-  "updatedAt": "2026-11-06",
+  "avg": 4.3,
+  "count": 7,
+  "updatedAt": "2026-11-16",
   "reviews": [
     {
       "author": "Camila P.",
@@ -45,6 +45,13 @@
       "text": "É de boa qualidade e muito chique!",
       "date": "2026-11-05",
       "verified": false
+    },
+    {
+      "author": "Ivone A.",
+      "rating": 5,
+      "text": "Produto ótimo , deu certinho em mim",
+      "date": "2026-11-15",
+      "verified": true
     }
   ]
 }
