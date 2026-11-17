@@ -1,8 +1,8 @@
 {
   "productId": "363888515",
   "avg": 5,
-  "count": 1,
-  "updatedAt": "2026-10-27",
+  "count": 2,
+  "updatedAt": "2026-11-17",
   "reviews": [
     {
       "author": "Olga S.",
@@ -10,6 +10,13 @@
       "text": "Ótimo",
       "date": "2026-09-30",
       "verified": true
+    },
+    {
+      "author": "Carla C.",
+      "rating": 5,
+      "text": "Maravilhosa!! Usei a festa toda e ficou super confortável, além de ser linda!",
+      "date": "2026-11-17",
+      "verified": false
     }
   ]
 }
