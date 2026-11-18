@@ -1,8 +1,8 @@
 {
   "productId": "270524199",
-  "avg": 4.5,
-  "count": 2,
-  "updatedAt": "2026-10-27",
+  "avg": 4.7,
+  "count": 3,
+  "updatedAt": "2026-11-18",
   "reviews": [
     {
       "author": "Patricia",
@@ -16,6 +16,13 @@
       "rating": 5,
       "text": "Excelente qualidade ,lindo e muito confortável",
       "date": "2026-09-29",
+      "verified": true
+    },
+    {
+      "author": "Lucinda S.",
+      "rating": 5,
+      "text": "Gostei bastante da sandália! Além de bonita é muito confortável.",
+      "date": "2026-11-17",
       "verified": true
     }
   ]
