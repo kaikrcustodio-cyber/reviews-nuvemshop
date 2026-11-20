@@ -1,8 +1,8 @@
 {
   "productId": "375470772",
   "avg": 5,
-  "count": 3,
-  "updatedAt": "2026-11-06",
+  "count": 4,
+  "updatedAt": "2026-11-20",
   "reviews": [
     {
       "author": "Ana C.",
@@ -24,6 +24,13 @@
       "text": "Amei, linda e com um solado emborrachado da a sensação de estar pisando em algodão. Um luxo a embalagem e um cuidado com o transporte.",
       "date": "2026-11-06",
       "verified": false
+    },
+    {
+      "author": "Gislene G.",
+      "rating": 5,
+      "text": "Muito boa",
+      "date": "2026-11-19",
+      "verified": true
     }
   ]
 }
