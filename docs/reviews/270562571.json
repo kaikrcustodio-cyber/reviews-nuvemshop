@@ -1,8 +1,8 @@
 {
   "productId": "270562571",
-  "avg": 4.3,
-  "count": 7,
-  "updatedAt": "2026-11-16",
+  "avg": 4.4,
+  "count": 8,
+  "updatedAt": "2026-11-22",
   "reviews": [
     {
       "author": "Camila P.",
@@ -51,6 +51,13 @@
       "rating": 5,
       "text": "Produto ótimo , deu certinho em mim",
       "date": "2026-11-15",
+      "verified": true
+    },
+    {
+      "author": "Simone R.",
+      "rating": 5,
+      "text": "Linda sandália e calça muito bem  Salto super confortável!",
+      "date": "2026-11-21",
       "verified": true
     }
   ]
