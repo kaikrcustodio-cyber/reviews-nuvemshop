@@ -1,8 +1,8 @@
 {
   "productId": "375458316",
   "avg": 5,
-  "count": 1,
-  "updatedAt": "2026-11-06",
+  "count": 2,
+  "updatedAt": "2026-11-24",
   "reviews": [
     {
       "author": "Ana S.",
@@ -10,6 +10,13 @@
       "text": "Perfeita! ficou maravilhosa no pé, estou apaixonada pela minha compra",
       "date": "2026-11-05",
       "verified": false
+    },
+    {
+      "author": "Ana A.",
+      "rating": 5,
+      "text": "Maravilhosa , estilosa e o mais importante\nConfortável",
+      "date": "2026-11-24",
+      "verified": true
     }
   ]
 }

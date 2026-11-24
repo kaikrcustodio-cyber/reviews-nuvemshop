@@ -1,8 +1,8 @@
 {
   "productId": "314593600",
-  "avg": 4.4,
-  "count": 5,
-  "updatedAt": "2026-10-27",
+  "avg": 4.5,
+  "count": 6,
+  "updatedAt": "2026-11-24",
   "reviews": [
     {
       "author": "Rebeca R.",
@@ -37,6 +37,13 @@
       "rating": 2,
       "text": "Embora lindo machucou meu pé absurdamente. Os dois calcanhares ficaram com bolhas enormes. Já tem 10 dias que usei a sandália e ainda não posso usar sapato que pega no calcanhar....",
       "date": "2026-09-08",
+      "verified": true
+    },
+    {
+      "author": "Josiana C.",
+      "rating": 5,
+      "text": "LINDA!! ESSE JÁ É O 5º SAPATO QUE COMPRO NA REGINA RIOS, É UM MAIS LINDO QUE O OUTRO, TODOS COM QUALIDADE E ENCAIXAM PERFEITOS NO PÉ. AMO!!",
+      "date": "2026-11-24",
       "verified": true
     }
   ]
