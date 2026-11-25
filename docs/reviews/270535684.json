@@ -1,8 +1,8 @@
 {
   "productId": "270535684",
   "avg": 5,
-  "count": 1,
-  "updatedAt": "2026-10-27",
+  "count": 2,
+  "updatedAt": "2026-11-25",
   "reviews": [
     {
       "author": "Cyntia V.",
@@ -10,6 +10,13 @@
       "text": "Adorei o sapato, muito confortável, estiloso e chique.",
       "date": "2026-05-10",
       "verified": true
+    },
+    {
+      "author": "Catia",
+      "rating": 5,
+      "text": "O bico do sapato é muito fino e a frente muito curta. Não é um sapato que abraça o pé.  As laterais dos dedos fica saltando pra fora e portanto não achei tão confortável.  Se a frente onde tem as tiras fosse maior ficaria mais confortável.  Falam que a forma é grande mas não achei. Uso 36 e peguei 36. Se tivesse pego um número menor com certeza não ia servir.",
+      "date": "2026-11-24",
+      "verified": false
     }
   ]
 }
