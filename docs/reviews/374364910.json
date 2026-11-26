@@ -1,8 +1,8 @@
 {
   "productId": "374364910",
   "avg": 5,
-  "count": 2,
-  "updatedAt": "2026-11-07",
+  "count": 3,
+  "updatedAt": "2026-11-26",
   "reviews": [
     {
       "author": "Lyria",
@@ -16,6 +16,13 @@
       "rating": 5,
       "text": "Amei!",
       "date": "2026-11-06",
+      "verified": true
+    },
+    {
+      "author": "Maria P.",
+      "rating": 5,
+      "text": "Gostei da sandália. Bonita e confortável, calça bem .",
+      "date": "2026-11-25",
       "verified": true
     }
   ]
