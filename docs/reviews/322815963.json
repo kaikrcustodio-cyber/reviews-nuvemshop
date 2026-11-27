@@ -1,8 +1,8 @@
 {
   "productId": "322815963",
   "avg": 5,
-  "count": 2,
-  "updatedAt": "2026-10-27",
+  "count": 3,
+  "updatedAt": "2026-11-27",
   "reviews": [
     {
       "author": "Renata A.",
@@ -16,6 +16,13 @@
       "rating": 5,
       "text": "Sandália muito confortável. Fiquei super contente pois fiz uma excelente compra. Estão de parabéns",
       "date": "2026-03-15",
+      "verified": true
+    },
+    {
+      "author": "Hercilia G.",
+      "rating": 5,
+      "text": "Muito bonita, macia e confortável. Sou cliente há muitos anos, a primeira compra que fiz foi na loja do shopping D. Pedro em Campinas. Tenho a sandália até hoje  todos me perguntam onde comprei.",
+      "date": "2026-11-26",
       "verified": true
     }
   ]

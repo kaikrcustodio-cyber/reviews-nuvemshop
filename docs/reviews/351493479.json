@@ -1,14 +1,21 @@
 {
   "productId": "351493479",
   "avg": 5,
-  "count": 1,
-  "updatedAt": "2026-10-27",
+  "count": 2,
+  "updatedAt": "2026-11-27",
   "reviews": [
     {
       "author": "Fernando F.",
       "rating": 5,
       "text": "Sapato muito lindo. Minha esposa amou.",
       "date": "2026-08-13",
+      "verified": true
+    },
+    {
+      "author": "Tatiana T.",
+      "rating": 5,
+      "text": "Há muito tempo eu vinha pesquisando os calçados da Regina Rios para comprar e minha última compra foi exatamente na cor que eu queria. Mas, infelizmente, até hoje não consegui usar porque comprei o 36 e o sapato está com a forma muito grande e sai do pé. Vou ter que pensar na melhor forma de reduzir o tamanho, talvez com um protetor de calcanhar....",
+      "date": "2026-11-27",
       "verified": true
     }
   ]
